@@ -21,7 +21,6 @@ Built as a *relational database system*, it demonstrates table relationships, da
 * SQL (MySQL)
 * Joins & Aggregations
 * Window Functions (RANK)
-* Date Functions
 
 ## Database Tables
 
